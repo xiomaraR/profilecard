@@ -42,7 +42,7 @@ function App() {
       </div>
 
       <div>
-      <td onClick={()=> window.open("www.linkedin.com/in/xio-rod", "_blank")}><img className="linkedin" src={linkedin} alt="LinkedIn Button"/></td>
+      <td onClick={()=> window.open("https://www.linkedin.com/in/xio-rod/", "_blank")}><img className="linkedin" src={linkedin} alt="LinkedIn Button"/></td>
       </div>
 
 
